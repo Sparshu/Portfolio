@@ -35,7 +35,7 @@ const Career = () => {
               <h3>2025-26</h3>
             </div>
             <p>
-              (Sept 2025 - Jan 2026)
+              (Sept 2025 - March 2026)
               Software Engineer Intern at Infosys with hands-on experience in developing full-stack web applications using 
               Java, Spring Boot, and React. Built and optimized RESTful APIs, designed efficient database schemas, 
               and worked with SQL to improve performance. 

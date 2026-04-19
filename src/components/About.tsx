@@ -11,7 +11,7 @@ const About = () => {
          I enjoy owning the entire development process—from backend architecture and 
          API design to frontend implementation and testing.
          <br></br>
-         For more info click on resume button given on right bottom corner.
+         Keep scrolling for more information.
         </p>
       </div>
     </div>
